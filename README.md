@@ -13,6 +13,9 @@ Linux and Windows, currently!
 
 Mac isn't supported yet due to the lack of having a Mac computer myself; but any gained support for Mac is very much appreciated!
 
+## Are there any special requirements for this?
+None at all, besides requiring Administrator privileges to inject the code.
+
 ## But why though?
 ~~why not?~~
 
