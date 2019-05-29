@@ -20,3 +20,29 @@ None at all, besides requiring Administrator privileges to inject the code.
 ~~why not?~~
 
 Because with having played TF2 often, I got really annoyed at the Ads that would suddenly pop-up in the MOTD or that would start playing music/videos in the background.
+
+# How can one contribute?
+If a person found subdomains that's used for an Adblock and you want to join in and help out, you can follow the shown example below:
+```
+# Pinion.gg #
+127.0.0.1 subdomain.pinion.gg
+```
+
+But if it's for a different domain/ad company that isn't listed in `tf2-adblock`, then you can create a new sub-block and add the list of domains/subdomains like in the example below:
+```
+# [...] #
+127.0.0.1 existingadblock.com
+127.0.0.1 www.existingadblock.com
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+[...]
+
+# <New Ad Company name here> #
+127.0.0.1 adcompany.com
+127.0.0.1 www.adcompany.com
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+127.0.0.1 subdomain1.adcompany.com
+127.0.0.1 subdomain2.adcompany.com
+127.0.0.1 subdomain3.adcompany.com
+[...]
+##################################
+```
