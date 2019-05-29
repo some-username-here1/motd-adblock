@@ -1,7 +1,7 @@
 #!/bin/sh
-read -rp "Are you sure? Any saved customization in your hosts file with be lost... [Y/N]" que
+read -rp "Restore your hosts to what it was, prior to injection? Any changes on top of the injection will be lost. [Y/N]" que
 
-if [ "$que" = "y" ] || [ "$que" = "Y" ] || [ "$que" = "yes" ] || [ "$que" = "Yes" ] || [ "$que" = "YES" ] || [ "$que" = "yES" ] || [ "$que" = "YEs" ] || [ "$que" = "YeS" ] || [ "$que" = "yES" ] || [ "$que" = "yEs" ]; then
+if [ "$que" = "y" ] || [ "$que" = "Y" ] || [ "$que" = "yes" ] || [ "$que" = "Yes" ] || [ "$que" = "YES" ] || [ "$que" = "yES" ] || [ "$que" = "YEs" ] || [ "$que" = "YeS" ] || [ "$que" = "yES" ] || [ "$que" = "yEs" ] || [ "$que" = "yeS" ]; then
     sudo cat ./hosts > /etc/hosts
 elif [ "$que" = "n" ] || [ "$que" = "N" ] || [ "$que" = "NO" ] || [ "$que" = "no" ] || [ "$que" = "No" ] || [ "$que" = "nO" ]; then; echo "Aborting..."; else; echo "Aborting..."; fi
 
