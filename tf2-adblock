@@ -97,14 +97,17 @@
 127.0.0.1 www.motdgd.com
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 127.0.0.1 ads.motdgd.com
+127.0.0.1 api.motdgd.com
 127.0.0.1 hub.motdgd.com
 127.0.0.1 cdn.motdgd.com
 127.0.0.1 chat.motdgd.com
+127.0.0.1 demo.motdgd.com
 127.0.0.1 hub.motdgd.com
 127.0.0.1 motd.motdgd.com
 127.0.0.1 pool.motdgd.com
 127.0.0.1 portal.motdgd.com
 127.0.0.1 sip.motdgd.com
+127.0.0.1 story.motdgd.com
 127.0.0.1 support.motdgd.com
 
 # OtakuGamingTF #
