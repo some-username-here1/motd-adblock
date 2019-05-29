@@ -19,10 +19,10 @@ None at all, besides requiring Administrator privileges to inject the code.
 ## But why though?
 ~~why not?~~
 
-Because with having played TF2 often, I got really annoyed at the Ads that would suddenly pop-up in the MOTD or that would start playing music/videos in the background.
+Because with playing on community servers on TF2 often, I got really annoyed at how the Ads would suddenly pop-up with bring up the MOTD, or that music/videos would start playing in the background.
 
 ## How can one contribute?
-If a person found subdomains that's used for an Adblock and you want to join in and help out, you can follow the shown example below:
+If a person found subdomains that's used for handling Ads and you want to join in and help out and block it, you can follow the shown example below, with adding a (sub)domain:
 ```
 # Pinion.gg #
 127.0.0.1 subdomain.pinion.gg
