@@ -1,1 +1,1 @@
-Execute the shell files in terminal due to them all requiring password input for `sudo` usage.
+When executing the shell files, Run in Terminal due to all of them requiring password input for `sudo` usage.
