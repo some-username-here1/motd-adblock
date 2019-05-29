@@ -5,7 +5,7 @@ A simple program made for blocking ads that appear in the MoTD of any Source gam
 ## How does it work?
 By editing the *hosts* file and injecting code into it that'll prevent your computer from reaching certain websites, such as http://pinion.gg, resulting in no Ads popping up in the MOTD or in the background.
 
-### If I don't like the changes and want my hosts file to be back the way it was before, is there a file for that?
+## If I don't like the changes and want my hosts file to be back the way it was before, is there a file for that?
 Of course! There's another file in each OS directory that named something of "reset hosts".
 
 ## Which Operating Systems (OS for short) are currently supported?
@@ -21,7 +21,7 @@ None at all, besides requiring Administrator privileges to inject the code.
 
 Because with having played TF2 often, I got really annoyed at the Ads that would suddenly pop-up in the MOTD or that would start playing music/videos in the background.
 
-# How can one contribute?
+## How can one contribute?
 If a person found subdomains that's used for an Adblock and you want to join in and help out, you can follow the shown example below:
 ```
 # Pinion.gg #
@@ -46,3 +46,10 @@ But if it's for a different domain/ad company that isn't listed in `tf2-adblock`
 [...]
 ##################################
 ```
+
+## Source
+A majority of the Adblocking List comes from here:
+
+https://piniongg.blogspot.com/
+
+Web Archive: https://web.archive.org/web/20181226072623/https://piniongg.blogspot.com/
