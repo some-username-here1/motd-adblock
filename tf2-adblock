@@ -1,7 +1,7 @@
 
 
 ### Team Fortress 2 Adblocking ###
-## Pinion.gg Blocking ##
+# Pinion.gg Blocking #
 127.0.0.1 pinion.gg
 127.0.0.1 www.pinion.gg
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -55,7 +55,7 @@
 127.0.0.1 pinionprizes.gg
 127.0.0.1 pog.gg
 
-## Unikrn ##
+# Unikrn #
 127.0.0.1 unikrn.com
 127.0.0.1 www.unikrn.com
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -75,7 +75,7 @@
 127.0.0.1 t.unikrn.com
 127.0.0.1 wiki.unikrn.com
 
-## VPPGamingNetwork ##
+# VPPGamingNetwork #
 127.0.0.1 vppgamingnetwork.com
 127.0.0.1 www.vppgamingnetwork.com
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -92,7 +92,7 @@
 127.0.0.1 story.vppgamingnetwork.com
 127.0.0.1 test.vppgamingnetwork.com
 
-## MOTDgd ##
+# MOTDgd #
 127.0.0.1 motdgd.com
 127.0.0.1 www.motdgd.com
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -107,7 +107,7 @@
 127.0.0.1 sip.motdgd.com
 127.0.0.1 support.motdgd.com
 
-## OtakuGamingTF ##
+# OtakuGamingTF #
 127.0.0.1 otaku.tf
 127.0.0.1 www.otaku.tf
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
