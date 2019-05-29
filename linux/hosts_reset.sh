@@ -1,5 +1,5 @@
 #!/bin/sh
-read -rp "Restore your hosts to what it was, prior to injection? Any changes on top of the injection will be lost. [Y/N]" que
+read -rp "Restore your hosts to what it was, prior to injection? Any custom changes made on top of the injection will be lost. [Y/N]" que
 
 if [ "$que" = "y" ] || [ "$que" = "Y" ] || [ "$que" = "yes" ] || [ "$que" = "Yes" ] || [ "$que" = "YES" ] || [ "$que" = "yES" ] || [ "$que" = "YEs" ] || [ "$que" = "YeS" ] || [ "$que" = "yES" ] || [ "$que" = "yEs" ] || [ "$que" = "yeS" ]; then
     sudo cat ./hosts > /etc/hosts
