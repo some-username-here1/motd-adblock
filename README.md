@@ -1,9 +1,9 @@
 # tf2-adblock
 ## What is it?
-A simple program made for blocking ads that appear in the MoTD of any Source game (or any other game that also has Pinion, MOTDgd, Unikrn, etc. appear elsewhere).
+A simple program made for blocking ads that appear in the MoTD of any Source game (or any other game that also has Pinion, MOTDgd, Unikrn and VPPGamingNetwork appear elsewhere).
 
 ## How does it work?
-By editing the *hosts* file and injecting code into it that'll prevent your computer from reaching certain websites, such as http://pinion.gg, resulting in no Ads popping up in the MOTD or in the background.
+By editing the *hosts* file and injecting code into it that'll prevent your computer from reaching certain websites, such as http://motd.pinion.gg, resulting in no Ads popping up in the MOTD or in the background; Simply Redirecting said website to 127.0.0.1, being that the computer itself, resulting in a certain error in the MOTD (as Steam would report).
 
 ## If I don't like the changes and want my hosts file to be back the way it was before, is there a file for that?
 Of course! There's another file in each OS directory that named something of "reset hosts".
