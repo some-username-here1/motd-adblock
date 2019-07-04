@@ -28,7 +28,7 @@ If a person found subdomains that's used for handling Ads and you want to join i
 127.0.0.1 subdomain.pinion.gg
 ```
 
-But if it's for a different domain/ad company that isn't listed in `tf2-adblock`, then you can create a new sub-block and add the list of domains/subdomains like in the example below:
+But if it's for a different domain/ad company that isn't listed in `motd-adblock`, then you can create a new sub-block and add the list of domains/subdomains like in the example below:
 ```
 # [...] #
 127.0.0.1 existingadblock.com
