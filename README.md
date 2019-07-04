@@ -1,4 +1,4 @@
-# tf2-adblock
+# motd-adblock
 ## What is it?
 A simple program made for blocking ads that appear in the MoTD of any Source game (or any other game that also has Pinion, MOTDgd, Unikrn and VPPGamingNetwork appear elsewhere).
 
@@ -19,7 +19,7 @@ None at all, besides requiring Administrator privileges to inject the code.
 ## But why though?
 ~~why not?~~
 
-Because with playing on community servers on TF2 often, I got really annoyed at how the Ads would suddenly pop-up with bring up the MOTD, or that music/videos would start playing in the background.
+Because with playing on community servers on TF2 often, I got really annoyed at how the Ads would suddenly pop-up with bringing up the MOTD, or that music/videos would start playing in the background while you're playing your game, only to irritate you more.
 
 ## How can one contribute?
 If a person found subdomains that's used for handling Ads and you want to join in and help out and block it, you can follow the shown example below, with adding a (sub)domain:
